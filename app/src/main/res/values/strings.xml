@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Explore Mars</string>
+    <string name="launch_on">Lanzado en:</string>
+    <string name="photo_num">Numero de fotos:</string>
+    <string name="last_photo">Ultima foto:</string>
+    <string name="cameras">Camaras</string>
+</resources>
